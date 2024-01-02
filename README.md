@@ -33,6 +33,7 @@ Urban Nest merupakan platform online yang dirancang untuk memberikan informasi l
 ![Screenshot from 2023-12-28 13-13-39](https://github.com/saidhafiz321/Project/assets/85662790/2dd920b8-6071-472f-b21a-f1f0af6fb533)
 
 **Mobile:**
+
 ![Screenshot_20231228-130030](https://github.com/saidhafiz321/Project/assets/85662790/dc8c434a-a680-4f8a-8130-4748d963dea8)
 
 ### Pelajaran yang Didapat:
